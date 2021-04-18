@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Meyank Mohapatra a.k.a. @memeyankm
 - 👀 I’m interested in: Data Science
 - 🌱 I’m currently learning: Machine Learning
-- 💞️ I’m looking to collaborate on: Image Processing PRojects
+- 💞️ I’m looking to collaborate on: Image Processing Projects
 - 📫 How to reach me: e-mail: meyankm.2k@gmail.com
 
 <!---
