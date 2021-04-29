@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Meyank Mohapatra a.k.a. @memeyankm
 - 👀 I’m interested in: Data Science, Crypto, Technology in general
-- 🌱 I’m currently learning: AI/ML, Big Data, BlockChain
-- 💞️ I’m looking to collaborate on: AI/ML projects based on Image Processing and NLP or BlockChain management
+- 🌱 I’m currently learning: AI/ML, Big Data, Blockchain
+- 💞️ I’m looking to collaborate on: AI/ML projects based on Image Processing and NLP or Blockchain management
 - 📫 How to reach me: e-mail: meyankm.2k@gmail.com
 
 <!---
