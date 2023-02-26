@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Meyank Mohapatra a.k.a. @memeyankm
+- 👋 Hi, I’m Meyank M a.k.a. @memeyankm
 - 👀 I’m interested in: Storytelling by using Data, Building Backend to support said story-telling and an understandable frontend for consumption of said data.
 - 🌱 I’m currently learning: Data engineering e2e pipeline, SQL coding, Excel 
 - 💞️ I’m looking to collaborate on: Data Mining/ Data Wrangling Projects, Writing MERN apps 
